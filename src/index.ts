@@ -16,3 +16,4 @@
 
 export { default as DocumentEditor } from "./DocumentEditor";
 export { DocumentEditorProps } from "./DocumentEditor";
+export type { Config, Config as IConfig } from "@maticonoffice/doceditor-types";

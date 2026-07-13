@@ -1,6 +1,6 @@
 {
   "name": "@maticonoffice/document-editor-react",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "React component for MaticonOffice Document Server",
   "license": "Apache-2.0",
   "bugs": {
