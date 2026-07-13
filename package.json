@@ -35,7 +35,7 @@
     "@babel/preset-typescript": "^7.27.1",
     "@commitlint/cli": "^21.0.1",
     "@commitlint/config-conventional": "^21.0.1",
-    "@maticonoffice/doceditor-types": "^9.3.1",
+    "@maticonoffice/doceditor-types": "^9.4.0",
     "@rollup/plugin-commonjs": "^29.0.2",
     "@rollup/plugin-node-resolve": "^16.0.1",
     "@rollup/plugin-terser": "^1.0.0",
@@ -69,7 +69,7 @@
     "typescript": "^5.8.3"
   },
   "peerDependencies": {
-    "@maticonoffice/doceditor-types": ">=9.3.1",
+    "@maticonoffice/doceditor-types": ">=9.4.0",
     "react": "^16.9.0 || ^17 || ^18 || ^19",
     "react-dom": "^16.9.0 || ^17 || ^18 || ^19"
   },
